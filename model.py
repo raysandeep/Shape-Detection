@@ -7,7 +7,7 @@ from keras.layers import Dense
 from keras.layers import Dropout
 
 #Dataset dir not output dir
-dir = '/home/sandy/Desktop/sandeep/dataset2/'
+dir = r"/Users/anandsure/Desktop/Shape-Detection/ds"
 os.chdir(dir)
 img_size = 60 
 
